@@ -1,6 +1,8 @@
 # cat_door
 Cat door control.
 
+!!! PERMANENTLY MOVED TO NEW ADDRESS: http://git.khoz.ru/Khoz/cat_door.git
+
 Program part of project for cat. 
 Details in my article on reddit.com (https://www.reddit.com/r/smarthome/comments/l8mj15/catdoor_project/).
 
